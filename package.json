@@ -1,0 +1,14 @@
+{
+  "name": "reactscss",
+  "version": "1.0.0",
+  "description": "Development project for learning React and Scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Worton",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
